@@ -1,11 +1,8 @@
 # 👋 hello, my name is Thiago Fernandes 
-- 🌱 I’m currently learning 
+👨‍💻 
 - 📫 How to reach me :Othigofernandes17@gmail.com | www.linkedin.com/in/thiago-fernandes-86661b353
 
   
 
 
-<!---
-OThigoF/OThigoF is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<img align="center" alt="Thiago-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
