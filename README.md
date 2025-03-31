@@ -1,6 +1,6 @@
 # 👋 hello, my name is Thiago Fernandes 
-👨‍💻 
-- 📫 How to reach me :Othigofernandes17@gmail.com | www.linkedin.com/in/thiago-fernandes-86661b353
+
+## 📫 How to reach me :Othigofernandes17@gmail.com | www.linkedin.com/in/thiago-fernandes-86661b353
 
   
 
